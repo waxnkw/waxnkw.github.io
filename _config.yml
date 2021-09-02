@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Ao"
+title                    : "Ao Zhang"
 title_separator          : "-"
-name                     : &name "Zhang Ao"
+name                     : &name "Ao Zhang"
 description              : &description "Ph.D Student at NUS"
 url                      : https://waxnkw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhang Ao (张傲)"
+  name             : "Ao Zhang (张傲)"
   avatar           : "profile.jpg"
   bio              : "Ph.D Student at NUS"
   location         : "Singapore"
