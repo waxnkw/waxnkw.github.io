@@ -14,7 +14,7 @@ I am a 1st-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.ch
 
 \* indicates equal contribution.
 
-* Yuan Yao\*, <strong>Ao Zhang\*</strong>, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun. Cpt: Colorful prompt tuning for pre-trained vision-language models</i>. [[arxiv]](https://arxiv.org/abs/2109.11797)
+* Yuan Yao\*, <strong>Ao Zhang\*</strong>, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun. CPT: Colorful prompt tuning for pre-trained vision-language models. [[arxiv]](https://arxiv.org/abs/2109.11797)
 
 * Xu Han\*, Zhengyan Zhang\*, Ning Ding\*, Yuxian Gu\*, Xiao Liu\*, Yuqi Huo\*, Jiezhong Qiu, Yuan Yao, <strong>Ao Zhang</strong>, Liang Zhang, Wentao Han, Minlie Huang, Qin Jin, Yanyan Lan, Yang Liu, Zhiyuan Liu, Zhiwu Lu, Xipeng Qiu, Ruihua Song, Jie Tang, Ji-Rong Wen, Jinhui Yuan, Wayne Xin Zhao, Jun Zhu. Pre-Trained Models: Past, Present and Future. [[arxiv]](https://arxiv.org/abs/2106.07139)
 
