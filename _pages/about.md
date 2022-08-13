@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). During my bachelor learning in Nanjing University, I was a member in [MAGUS](https://magus.ink/) and got supervised by [Prof. Tongwei Ren](https://software.nju.edu.cn/rentw/). My research interests include scene graph generation and pre-trained models for vision and language understanding. 
+I am a 2nd-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). During my bachelor learning in Nanjing University, I was a member in [MAGUS](https://magus.ink/) and got supervised by [Prof. Tongwei Ren](https://software.nju.edu.cn/rentw/). My research interests include scene graph generation and pre-trained models for vision and language understanding. 
 
 ## Preprint
 
