@@ -10,11 +10,13 @@ redirect_from:
 
 I am a 2nd-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). During my bachelor learning in Nanjing University, I was a member in [MAGUS](https://magus.ink/) and got supervised by [Prof. Tongwei Ren](https://software.nju.edu.cn/rentw/). My research interests include scene graph generation and pre-trained models for vision and language understanding. 
 
+I am looking for summer internship. If you are interested in me, please contact me through zhanga6@outlook.com.
+
 ## Preprint
 
 \* indicates equal contribution.
 
-* CPT: Colorful prompt tuning for pre-trained vision-language models. [[arxiv]](https://arxiv.org/abs/2109.11797)  
+* CPT: Colorful prompt tuning for pre-trained vision-language models. [[arxiv]](https://arxiv.org/abs/2109.11797)  [[code]](https://github.com/thunlp/CPT)  
 Yuan Yao\*, <strong>Ao Zhang\*</strong>, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun. 
 
 * Pre-Trained Models: Past, Present and Future. [[arxiv]](https://arxiv.org/abs/2106.07139)  
@@ -27,6 +29,12 @@ Xu Han\*, Zhengyan Zhang\*, Ning Ding\*, Yuxian Gu\*, Xiao Liu\*, Yuqi Huo\*, Ji
 <strong>Ao Zhang\*</strong>, Yuan Yao*, Qianyu Chen, Wei Ji, Zhiyuan Liu, Maosong Sun, Tat-Seng Chua.  
 European Conference on Computer Vision (ECCV 2022)  
 (<span style="color: red">**Oral Presentation, 2.7%**</span>)
+
+* PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models. [[arxiv]](https://arxiv.org/abs/2205.11169) [[code]](https://github.com/thunlp/PEVL)  
+Yuan Yao*, Qianyu Chen*, <strong>Ao Zhang</strong>, Wei Ji, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun.  
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)  
+
+
 
 ### 2021
 * Visual Distant Supervision for Scene Graph Generation. [[arxiv]](https://arxiv.org/pdf/2103.15365.pdf) [[code]](https://github.com/thunlp/VisualDS)  
