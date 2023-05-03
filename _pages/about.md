@@ -10,11 +10,15 @@ redirect_from:
 
 I am a 2nd-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). During my bachelor learning in Nanjing University, I was a member in [MAGUS](https://magus.ink/) and got supervised by [Prof. Tongwei Ren](https://software.nju.edu.cn/rentw/). My research interests include scene graph generation and pre-trained models for vision and language understanding. 
 
-I am looking for summer internship. If you are interested in me, please contact me through zhanga6@outlook.com.
+Chat with the [[VL-Vicuna]](https://vpgtrans.github.io/) built with our VPGTrans!
 
 ## Preprint
 
 \* indicates equal contribution.
+
+* Transfer Visual Prompt Generator across LLMs. [[demo]](https://vpgtrans.github.io/)  [[arxiv]](https://arxiv.org/abs/2305.01278)  [[code]](https://github.com/VPGTrans/VPGTrans)  
+<strong>Ao Zhang</strong>, Hao Fei#, Yuan Yao#, Wei Ji, Li Li, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
+
 
 * CPT: Colorful prompt tuning for pre-trained vision-language models. [[arxiv]](https://arxiv.org/abs/2109.11797)  [[code]](https://github.com/thunlp/CPT)  
 Yuan Yao\*, <strong>Ao Zhang\*</strong>, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun. 
