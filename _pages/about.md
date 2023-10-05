@@ -8,17 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). During my bachelor learning in Nanjing University, I was a member in [MAGUS](https://magus.ink/) and got supervised by [Prof. Tongwei Ren](https://software.nju.edu.cn/rentw/). My research interests include scene graph generation and pre-trained models for vision and language understanding. 
+I am a 3rd-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). During my bachelor learning in Nanjing University, I was a member in [MAGUS](https://magus.ink/) and got supervised by [Prof. Tongwei Ren](https://software.nju.edu.cn/rentw/). My research interests include scene graph generation and pre-trained models for vision and language understanding. 
 
 Chat with the [[VL-Vicuna]](https://vpgtrans.github.io/) built with our VPGTrans!
 
 ## Preprint
 
 \* indicates equal contribution.
-
-* Transfer Visual Prompt Generator across LLMs. [[demo]](https://vpgtrans.github.io/)  [[arxiv]](https://arxiv.org/abs/2305.01278)  [[code]](https://github.com/VPGTrans/VPGTrans)  
-<strong>Ao Zhang</strong>, Hao Fei#, Yuan Yao#, Wei Ji, Li Li, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
-
 
 * CPT: Colorful prompt tuning for pre-trained vision-language models. [[arxiv]](https://arxiv.org/abs/2109.11797)  [[code]](https://github.com/thunlp/CPT)  
 Yuan Yao\*, <strong>Ao Zhang\*</strong>, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun. 
@@ -28,6 +24,13 @@ Xu Han\*, Zhengyan Zhang\*, Ning Ding\*, Yuxian Gu\*, Xiao Liu\*, Yuqi Huo\*, Ji
 
 
 ## Publications
+
+### 2023
+* Transfer Visual Prompt Generator across LLMs. [[demo]](https://vpgtrans.github.io/)  [[arxiv]](https://arxiv.org/abs/2305.01278)  [[code]](https://github.com/VPGTrans/VPGTrans)  
+<strong>Ao Zhang</strong>, Hao Fei#, Yuan Yao#, Wei Ji, Li Li, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
+Conference on Neural Information Processing Systems (NeurIPS 2023)  
+
+
 ### 2022
 * Fine-Grained Scene Graph Generation with Data Transfer. [[arxiv]](https://arxiv.org/abs/2203.11654) [[code]](https://github.com/waxnkw/IETrans-SGG.pytorch)  
 <strong>Ao Zhang\*</strong>, Yuan Yao*, Qianyu Chen, Wei Ji, Zhiyuan Liu, Maosong Sun, Tat-Seng Chua.  
