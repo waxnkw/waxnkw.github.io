@@ -26,6 +26,10 @@ Xu Han\*, Zhengyan Zhang\*, Ning Ding\*, Yuxian Gu\*, Xiao Liu\*, Yuqi Huo\*, Ji
 ## Publications
 
 ### 2023
+* NExT-Chat: An LMM for Chat, Detection and Segmentation. [[website]](https://next-chatv.github.io/)  [[arxiv]](https://arxiv.org/abs/2311.04498)  [[code]](https://github.com/NExT-ChatV/NExT-Chat)  
+<strong>Ao Zhang</strong>, Yuan Yao#, Wei Ji, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
+Arxiv 
+
 * Transfer Visual Prompt Generator across LLMs. [[demo]](https://vpgtrans.github.io/)  [[arxiv]](https://arxiv.org/abs/2305.01278)  [[code]](https://github.com/VPGTrans/VPGTrans)  
 <strong>Ao Zhang</strong>, Hao Fei#, Yuan Yao#, Wei Ji, Li Li, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
 Conference on Neural Information Processing Systems (NeurIPS 2023)  
