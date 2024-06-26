@@ -25,12 +25,16 @@ Xu Han\*, Zhengyan Zhang\*, Ning Ding\*, Yuxian Gu\*, Xiao Liu\*, Yuqi Huo\*, Ji
 
 ## Publications
 
-### 2023
+### 2024
+* MiniCPM-V: A GPT-4V Level MLLM on Your Phone. [[huggingface]](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5)  [[code]](https://github.com/OpenBMB/MiniCPM-V)  
+Yuan Yao, Tianyu Yu, <strong>Ao Zhang</strong>, Chongyi Wang, Junbo Cui, Hongji Zhu, Tianchi Cai, Haoyu Li, Weilin Zhao, Ronghua Zhou, Zhihui He, Zhensheng Zou, Haoye Zhang, Shengding Hu, Zhi Zheng, Jie Zhou, Jie Cai, Xu Han, Guoyang Zeng, Dahai Li, Zhiyuan Liu, and Maosong Sun.  (report is on the way) 
+
 * NExT-Chat: An LMM for Chat, Detection and Segmentation. [[website]](https://next-chatv.github.io/)  [[arxiv]](https://arxiv.org/abs/2311.04498)  [[code]](https://github.com/NExT-ChatV/NExT-Chat)  
 <strong>Ao Zhang</strong>, Yuan Yao#, Wei Ji, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
-Arxiv 
+International Conference on Machine Learning  (ICML 2024) 
 
-* Transfer Visual Prompt Generator across LLMs. [[demo]](https://vpgtrans.github.io/)  [[arxiv]](https://arxiv.org/abs/2305.01278)  [[code]](https://github.com/VPGTrans/VPGTrans)  
+### 2023
+* VPGTrans: Transfer Visual Prompt Generator across LLMs. [[demo]](https://vpgtrans.github.io/)  [[arxiv]](https://arxiv.org/abs/2305.01278)  [[code]](https://github.com/VPGTrans/VPGTrans) [[zhihu]](https://github.com/VPGTrans/VPGTrans)
 <strong>Ao Zhang</strong>, Hao Fei#, Yuan Yao#, Wei Ji, Li Li, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
 Conference on Neural Information Processing Systems (NeurIPS 2023)  
 
