@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include Multimodal Large Language Model and Vision-Language-Action model (VLA). 
-
-I have interned 
+I am a 4th-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I also interned at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://yukezhu.me/). My research interests include Multimodal Large Language Model and Vision-Language-Action model (VLA). Please see my [CV](https://waxnkw.github.io/files/cv-zh_ENG.pdf) for details.
 
 I am on the job market now! Welcome to contact me via zhanga6@outlook.com.
 
