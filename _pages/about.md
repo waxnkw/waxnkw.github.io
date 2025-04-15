@@ -17,8 +17,7 @@ I am on the job market now! Welcome to contact me via zhanga6@outlook.com.
 
 ### 2025
 * GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[technical report]](https://arxiv.org/abs/2503.14734)  [[code]](https://github.com/NVIDIA/Isaac-GR00T)
-Core Contributor.   
-(<span style="color: red">**The world's first open foundation model for generalized humanoid robot reasoning and skills.**</span>)
+Core Contributor. The world's first open foundation model for generalized humanoid robot reasoning and skills.
 
 ### 2024
 * MiniCPM-V: A GPT-4V Level MLLM on Your Phone. [[technical report]](https://arxiv.org/abs/2408.01800) [[huggingface]](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5)  [[code]](https://github.com/OpenBMB/MiniCPM-V)  
