@@ -17,11 +17,14 @@ I am on the job market now! Welcome to contact me via zhanga6@outlook.com.
 
 ### 2025
 * GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[technical report]](https://arxiv.org/abs/2503.14734)  [[code]](https://github.com/NVIDIA/Isaac-GR00T)
-Core Contributor.
+Core Contributor.   
+(<span style="color: red">**The world's first open foundation model for generalized humanoid robot reasoning and skills.**</span>)
 
 ### 2024
 * MiniCPM-V: A GPT-4V Level MLLM on Your Phone. [[technical report]](https://arxiv.org/abs/2408.01800) [[huggingface]](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5)  [[code]](https://github.com/OpenBMB/MiniCPM-V)  
-Yuan Yao*, Tianyu Yu*, <strong>Ao Zhang*</strong>, Chongyi Wang*, Junbo Cui*, Hongji Zhu*, Tianchi Cai*, Haoyu Li, Weilin Zhao, Ronghua Zhou, Zhihui He, Zhensheng Zou, Haoye Zhang, Shengding Hu, Zhi Zheng, Jie Zhou, Jie Cai, Xu Han, Guoyang Zeng, Dahai Li, Zhiyuan Liu, and Maosong Sun.
+Yuan Yao\*, Tianyu Yu\*, <strong>Ao Zhang\*</strong>, Chongyi Wang\*, Junbo Cui\*, Hongji Zhu\*, Tianchi Cai\*, Haoyu Li, Weilin Zhao, Ronghua Zhou, Zhihui He, Zhensheng Zou, Haoye Zhang, Shengding Hu, Zhi Zheng, Jie Zhou, Jie Cai, Xu Han, Guoyang Zeng, Dahai Li, Zhiyuan Liu, and Maosong Sun.
+(<span style="color: red">**19k star on github now**</span>)
+
 
 * NExT-Chat: An LMM for Chat, Detection and Segmentation. [[website]](https://next-chatv.github.io/)  [[arxiv]](https://arxiv.org/abs/2311.04498)  [[code]](https://github.com/NExT-ChatV/NExT-Chat)  
 <strong>Ao Zhang</strong>, Yuan Yao#, Wei Ji, Zhiyuan Liu, and Tat-Seng Chua.  (#Correspondence)
