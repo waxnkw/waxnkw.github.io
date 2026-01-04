@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent 1 year in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I also interned at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://yukezhu.me/). My research interests include Multimodal Large Language Model and Vision-Language-Action model (VLA). Please see my [CV](https://waxnkw.github.io/files/cv-zh_ENG.pdf) for details.
+I am a final year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent a good time in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I also interned at NVIDIA GEAR with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://yukezhu.me/). My research interests include multimedia understanding.
 
-I am on the job market now! Welcome to contact me via zhanga6@outlook.com.
+Welcome to contact me via zhanga6@outlook.com.
 
 ## Publications
 \* indicates equal contribution.
 
 ### 2025
 * GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[technical report]](https://arxiv.org/abs/2503.14734)  [[code]](https://github.com/NVIDIA/Isaac-GR00T)
-Core Contributor. The world's first open foundation model for generalized humanoid robot reasoning and skills.
 
 ### 2024
 * MiniCPM-V: A GPT-4V Level MLLM on Your Phone. [[technical report]](https://arxiv.org/abs/2408.01800) [[huggingface]](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5)  [[code]](https://github.com/OpenBMB/MiniCPM-V)  
 Yuan Yao\*, Tianyu Yu\*, <strong>Ao Zhang\*</strong>, Chongyi Wang\*, Junbo Cui\*, Hongji Zhu\*, Tianchi Cai\*, Haoyu Li, Weilin Zhao, Ronghua Zhou, Zhihui He, Zhensheng Zou, Haoye Zhang, Shengding Hu, Zhi Zheng, Jie Zhou, Jie Cai, Xu Han, Guoyang Zeng, Dahai Li, Zhiyuan Liu, and Maosong Sun.
-(<span style="color: red">**19k star on github now**</span>)
 
 
 * NExT-Chat: An LMM for Chat, Detection and Segmentation. [[website]](https://next-chatv.github.io/)  [[arxiv]](https://arxiv.org/abs/2311.04498)  [[code]](https://github.com/NExT-ChatV/NExT-Chat)  
@@ -54,10 +52,6 @@ Yuan Yao\*, <strong>Ao Zhang\*</strong>, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng C
 * Visual Distant Supervision for Scene Graph Generation. [[arxiv]](https://arxiv.org/pdf/2103.15365.pdf) [[code]](https://github.com/thunlp/VisualDS)  
 Yuan Yao\*, <strong>Ao Zhang\*</strong>, Xu Han, Mengdi Li, Cornelius Weber, Zhiyuan Liu, Stefan Wermter, Maosong Sun.  
 International Conference on Computer Vision (ICCV 2021).   
-
-
-* Pre-Trained Models: Past, Present and Future. [[arxiv]](https://arxiv.org/abs/2106.07139)  
-Xu Han\*, Zhengyan Zhang\*, Ning Ding\*, Yuxian Gu\*, Xiao Liu\*, Yuqi Huo\*, Jiezhong Qiu, Yuan Yao, <strong>Ao Zhang</strong>, Liang Zhang, Wentao Han, Minlie Huang, Qin Jin, Yanyan Lan, Yang Liu, Zhiyuan Liu, Zhiwu Lu, Xipeng Qiu, Ruihua Song, Jie Tang, Ji-Rong Wen, Jinhui Yuan, Wayne Xin Zhao, Jun Zhu.
 
 
 ### Previous
