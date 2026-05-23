@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D student, supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/), School of Computing, National University of Singapore. Before that, I spent a good time in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I also interned at NVIDIA GEAR with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://yukezhu.me/). My research interests include multimedia understanding.
+Now, I am a top-seed research scientist at Bytedance. I recieved my Ph.D degree from National University of Singapore (NUS), supervised by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) in [NExT++](http://www.nextcenter.org/). Before that, I spent a good time in [THUNLP](http://nlp.csai.tsinghua.edu.cn/) in Tsinghua University, working as a research assistant supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I also interned at NVIDIA GEAR with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://yukezhu.me/).
 
 Welcome to contact me via zhanga6@outlook.com.
 
